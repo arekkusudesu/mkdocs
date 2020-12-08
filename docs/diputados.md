@@ -18,7 +18,7 @@ output:
 
 ##### Christian Guevara Guadrón
 
-<img src="diputados/images/Chris_400x400.jpg" style="zoom:25%;" />  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG) <img src="images/Chris_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
+<img src="diputados.assets/image-20201208235726134.png" alt="image-20201208235726134" style="zoom: 33%;" />  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG) <img src="images/Chris_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
 
 ----
 ##### José Urbina
