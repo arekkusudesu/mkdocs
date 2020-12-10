@@ -11,7 +11,15 @@ output:
 
 ### Walter Araujo
 
-![Walter_132x132](diputados.assets/Walter_132x132.jpg) <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@waraujo64](https://twitter.com/waraujo64) / <img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s360-rw" style="zoom:8%;" />[YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)										![Walter_495x165](diputados.assets/Walter_495x165.jpg)
+![Walter_132x132](diputados.assets/Walter_132x132.jpg) [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)										![Walter_495x165](diputados.assets/Walter_495x165.jpg)
+
+
+
+|                                                        |                                                              |                                                        |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
+| ![Walter_132x132](diputados.assets/Walter_132x132.jpg) | [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA) | ![Walter_495x165](diputados.assets/Walter_495x165.jpg) |
+|                                                        |                                                              |                                                        |
+|                                                        |                                                              |                                                        |
 
 
 
