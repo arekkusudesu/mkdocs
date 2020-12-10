@@ -5,9 +5,7 @@ output:
     css: CSSBackgrounds.css
 ---
 
-![NuevasIdeas_132x132](diputados.assets/NuevasIdeas_132x132.png) 
-
-# Candidatos a Diputados por parte de Nuevas Ideas
+# ![NuevasIdeas_132x132](diputados.assets/NuevasIdeas_132x132.png) Candidatos a Diputados de Nuevas Ideas
 
 ## San Salvador
 
