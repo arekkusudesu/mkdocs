@@ -13,7 +13,9 @@ output:
 
 ### Walter Araujo
 
-![Walter_132x132](diputados.assets/Walter_132x132.jpg) [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)										![Walter_495x165](diputados.assets/Walter_495x165.jpg)
+| ![Walter_132x132](diputados.assets/Walter_132x132.jpg) | [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA) |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                        | ![Walter_495x165](diputados.assets/Walter_495x165.jpg)       |
 
 ----
 
