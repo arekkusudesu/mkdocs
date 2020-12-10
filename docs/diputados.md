@@ -13,15 +13,17 @@ output:
 
 ### Walter Araujo
 
-| ![Walter_132x132](diputados.assets/Walter_132x132.jpg) | [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA) |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                        | ![Walter_495x165](diputados.assets/Walter_495x165.jpg)       |
+![Walter_132x132](diputados.assets/Walter_132x132.jpg)  / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
+
+![Walter_495x165](diputados.assets/Walter_495x165.jpg)
 
 ----
 
 ### Christian Guevara Guadrón
 
-![Chris_132x132](diputados.assets/Chris_132x132.jpg) <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)										![Chris_495x165](diputados.assets/Chris_495x165.jpg)  
+![Chris_132x132](diputados.assets/Chris_132x132.jpg) [@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)
+
+![Chris_495x165](diputados.assets/Chris_495x165.jpg)  
 
 ----
 ### José Urbina
