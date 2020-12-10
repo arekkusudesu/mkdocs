@@ -5,7 +5,7 @@ output:
     css: CSSBackgrounds.css
 ---
 
-## ![NuevasIdeas_132x132](diputados.assets/NuevasIdeas_132x132.png) Candidatos a Diputados de Nuevas Ideas
+# ![NuevasIdeas_132x132](diputados.assets/NuevasIdeas_132x132.png) Candidatos a Diputados de Nuevas Ideas
 
 ## San Salvador
 
@@ -13,26 +13,16 @@ output:
 
 ![Walter_132x132](diputados.assets/Walter_132x132.jpg) [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)										![Walter_495x165](diputados.assets/Walter_495x165.jpg)
 
-
-
-|                                                        |                                                              |                                                        |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
-| ![Walter_132x132](diputados.assets/Walter_132x132.jpg) | [@waraujo64](https://twitter.com/waraujo64) / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA) | ![Walter_495x165](diputados.assets/Walter_495x165.jpg) |
-|                                                        |                                                              |                                                        |
-|                                                        |                                                              |                                                        |
-
-
-
 ----
 
-##### Christian Guevara Guadrón
+### Christian Guevara Guadrón
 
-<img src="diputados.assets/image-20201208235726134.png" alt="image-20201208235726134" style="zoom: 33%;" />  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG) <img src="images/Chris_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
+![Chris_132x132](diputados.assets/Chris_132x132.jpg) <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)										![Chris_495x165](diputados.assets/Chris_495x165.jpg)  
 
 ----
-##### José Urbina
+### José Urbina
 
-<img src="images/Jose_400x400.jpg" style="zoom:25%;" />  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@joseurbinasv](https://twitter.com/joseurbinasv)<img src="images/Jose_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
+![Jose_132x132](diputados.assets/Jose_132x132.jpg)  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@joseurbinasv](https://twitter.com/joseurbinasv)										![Jose_495x165](diputados.assets/Jose_495x165.jpg)
 
 ----
 
