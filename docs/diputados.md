@@ -13,9 +13,9 @@ output:
 
 ### Walter Araujo
 
-![Walter_132x132](diputados.assets/Walter_132x132.jpg)  / [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
+![Walter_132x132](diputados.assets/Walter_132x132.jpg)![Twitter_36x36](diputados.assets\Twitter_36x36.jpg)[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)  / ![YouTube_36x36](diputados.assets\YouTube_36x36.jpg) [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
 
-![Walter_495x165](diputados.assets/Walter_495x165.jpg)
+![Walter_495x165](diputados.assets/Walter_495x165.jpg) 
 
 ----
 
@@ -23,16 +23,23 @@ output:
 
 ![Chris_132x132](diputados.assets/Chris_132x132.jpg) [@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)
 
-![Chris_495x165](diputados.assets/Chris_495x165.jpg)  
+![Chris_495x165](diputados.assets/Chris_495x165.jpg) 
+
 
 ----
 ### José Urbina
 
-![Jose_132x132](diputados.assets/Jose_132x132.jpg)  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@joseurbinasv](https://twitter.com/joseurbinasv)										![Jose_495x165](diputados.assets/Jose_495x165.jpg)
+![Jose_132x132](diputados.assets/Jose_132x132.jpg)  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@joseurbinasv](https://twitter.com/joseurbinasv)
+
+![Jose_495x165](diputados.assets/Jose_495x165.jpg) 
 
 ----
 
 ##### Alexia Rivas
+
+![Jose_132x132](diputados.assets/Alexia_132x132.jpg)  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@joseurbinasv](https://twitter.com/joseurbinasv)
+
+![Jose_495x165](diputados.assets/Jose_495x165.jpg) 
 
 <img src="images/Alexia_400x400.jpg" style="zoom:25%;" /> <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@AlexiaRivasG1](https://twitter.com/AlexiaRivasG1)<img src="images/Alexia_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
 
