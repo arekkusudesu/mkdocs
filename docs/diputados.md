@@ -13,7 +13,7 @@ output:
 
 ### Walter Araujo
 
-![Walter_132x132](diputados.assets/Walter_132x132.jpg)![Twitter_36x36](diputados.assets\Twitter_36x36.jpg)[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)  / ![YouTube_36x36](diputados.assets\YouTube_36x36.jpg) [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
+![Walter_132x132](diputados.assets/Walter_132x132.jpg)![Twitter_36x36](diputados.assets/Twitter_36x36.jpg)[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)  / ![YouTube_36x36](diputados.assets/YouTube_36x36.jpg) [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
 
 ![Walter_495x165](diputados.assets/Walter_495x165.jpg) 
 
