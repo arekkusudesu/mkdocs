@@ -15,6 +15,8 @@ output:
 
 <img title="" src="diputados.assets/Walter_495x165.jpg" alt="Walter_495x165" data-align="inline" width="222"> 
 
+![Placeholder](diputados.assets/Walter_495x165.jpg){: align=right }
+
 ----
 
 ### Christian Guevara Guadrón
