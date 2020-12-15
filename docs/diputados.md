@@ -17,6 +17,8 @@ output:
 
 ![Placeholder](diputados.assets/Walter_495x165.jpg){: align=right }
 
+it this working?
+
 ----
 
 ### Christian Guevara Guadrón
