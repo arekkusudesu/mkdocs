@@ -5,17 +5,15 @@ output:
     css: CSSBackgrounds.css
 ---
 
-![NuevasIdeas_132x132](diputados.assets/NuevasIdeas_132x132.png) 
-
-# Candidatos a Diputados por parte de Nuevas Ideas
+# <img title="" src="diputados.assets/NuevasIdeas_132x132.png" alt="NuevasIdeas_132x132" width="61" data-align="inline"> Candidatos a Diputados por parte de Nuevas Ideas
 
 ## San Salvador
 
 ### Walter Araujo
 
-![Walter_132x132](diputados.assets/Walter_132x132.jpg)![Twitter_36x36](diputados.assets/Twitter_36x36.jpg)[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)  / ![YouTube_36x36](diputados.assets/YouTube_36x36.jpg) [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
+<img src="diputados.assets/Walter_132x132.jpg" title="" alt="Walter_132x132" width="72"><img title="" src="diputados.assets/Twitter_36x36.jpg" alt="Twitter_36x36" data-align="inline">[@ChrisGuevaraG](https://twitter.com/ChrisGuevaraG)  / ![YouTube_36x36](diputados.assets/YouTube_36x36.jpg) [YouTube](https://www.youtube.com/channel/UCPEiDgyR7LGVY8dWi1cjRqA)
 
-![Walter_495x165](diputados.assets/Walter_495x165.jpg) 
+<img title="" src="diputados.assets/Walter_495x165.jpg" alt="Walter_495x165" data-align="inline" width="222"> 
 
 ----
 
@@ -25,8 +23,8 @@ output:
 
 ![Chris_495x165](diputados.assets/Chris_495x165.jpg) 
 
-
 ----
+
 ### José Urbina
 
 ![Jose_132x132](diputados.assets/Jose_132x132.jpg)  <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@joseurbinasv](https://twitter.com/joseurbinasv)
@@ -87,13 +85,11 @@ output:
 
 ----
 
-
 ##### Willie Ventura
 
 <img src="images/Willie_400x400.jpg" style="zoom:25%;" /> <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@WillieVentura_](https://twitter.com/WillieVentura_)<img src="images/Willie_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
 
 ----
-
 
 ##### Ruben Flores
 
@@ -135,11 +131,6 @@ output:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suplente
 
-
-
-
-
-
 ----
 
 ### La Paz
@@ -177,6 +168,7 @@ output:
 <img src="images\Yesenia_400x400.jpg" style="zoom:25%;" /> <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@yeseniahdrz](https://twitter.com/yeseniahdrz) <img src="images/Yesenia_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
 
 ----
+
 ### San Miguel
 
 ----
@@ -203,13 +195,11 @@ output:
 
 ----
 
-
 ##### Mauricio Ortiz
 
 <img src="images\Mauricio_400x400.jpg" alt="Caleb_400x400" style="zoom:25%;" /> <img src="https://abs.twimg.com/favicons/twitter.ico" style="zoom:80%;" />[@MauricioOrtizES](https://twitter.com/MauricioOrtizES)<img src="images/Mauricio_1500x500.jfif" style="zoom:20%;opacity: 0.5;float: right;">
 
 ----
-
 
 ### Morazán
 
@@ -232,5 +222,3 @@ output:
 ----
 
 <div style="background-image:url(../img/Caleb_1500x500.jfif); height: 500px; width: 1500px;zoom:20%;opacity: 0.5;float: right;">Text here</div>
-
-
